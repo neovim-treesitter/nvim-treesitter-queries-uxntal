@@ -1,7 +1,7 @@
 {
-  "semver": false,
   "parser_version": "ad9b638b914095320de85d59c49ab271603af048",
   "location": null,
   "lang": "uxntal",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-uxntal"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-uxntal",
+  "semver": false
 }
